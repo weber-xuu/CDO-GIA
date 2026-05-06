@@ -1,8 +1,8 @@
-# CDO-GIA: Gradient Inversion Attack with Candidate Descent
+# CDO-GIA: A Robust Textual Gradient Inversion Attack against Federated Language Models via Continuous-Discrete Optimization.
 
- **This repository contains the official PyTorch implementation and experimental data for the paper** **"[Insert Paper Title Here]"**.
+ **This repository contains the official PyTorch implementation and experimental data for the paper.**
 
-  **We propose** **CDO-GIA**, a method to recover private text data from gradients by combining continuous optimization with a discrete candidate search strategy. This repository also includes implementations of baseline methods (LAMP, TAG, DLG) for comparison.
+  **We propose** **CDO-GIA**, a method to recover private text data from gradients Continuous-Discrete Optimization. This repository also includes implementations of baseline methods (LAMP, TAG, DLG) for comparison.
 
 ## 🛠️ Setup & Dependencies
 
